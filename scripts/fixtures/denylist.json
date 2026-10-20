@@ -1,0 +1,21 @@
+{
+  "files": [
+    "\\bacme-upstream(?=\\b|_)"
+  ],
+  "content": [
+    "\\bacme-upstream(?=\\b|_)",
+    "\\bedge-zone\\b"
+  ],
+  "sections": [
+    "^Internal notes$"
+  ],
+  "replacements": [
+    {
+      "pattern": "tri_(?:live|test)_[A-Za-z0-9_-]{12,}",
+      "replacement": "tri_live_your_key_here"
+    }
+  ],
+  "pages": [
+    "(?:^|\\n)\\s*visibility:\\s*staff-only\\b"
+  ]
+}

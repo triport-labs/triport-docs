@@ -1,0 +1,6 @@
+{
+  "name": "triport-docs",
+  "description": "Triport user documentation: nine blockchain networks, JSON-RPC, streaming, guides and the Platform API. Read, search and contribute corrections on GitHub.",
+  "homepage": "https://triport.io/docs",
+  "topics": ["triport", "documentation", "blockchain", "json-rpc", "websocket", "grpc", "solana", "ethereum", "developer-tools"]
+}

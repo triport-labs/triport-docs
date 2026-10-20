@@ -1,0 +1,13 @@
+{
+  "name": "triport-docs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "check": "node --check scripts/export.mjs && node --check scripts/check-links.mjs && node --check scripts/markdown.mjs",
+    "test": "node --test scripts/test.mjs",
+    "check-links": "node scripts/check-links.mjs",
+    "check-links:external": "node scripts/check-links.mjs --external"
+  }
+}
