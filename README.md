@@ -6,7 +6,7 @@ The public Markdown mirror of Triport's user documentation. Browse the network
 references, search this repository, and suggest corrections through issues or PRs.
 Each page links to its live website version.
 
-[Website](https://triport.io) · [Docs](https://triport.io/docs) · [X](https://x.com/triport_io) · [Telegram](https://t.me/triport_dev) · [Email](mailto:sales@triport.io)
+[Website](https://triport.io) · [Docs](https://triport.io/docs) · [X](https://x.com/triport_io) · [Telegram](https://t.me/triport_sales) · [Email](mailto:sales@triport.io)
 
 ## Start in one minute
 
