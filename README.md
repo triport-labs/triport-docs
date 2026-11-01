@@ -8,6 +8,10 @@ Each page links to its live website version.
 
 [Website](https://triport.io) · [Docs](https://triport.io/docs) · [X](https://x.com/triport_io) · [Telegram](https://t.me/triport_sales) · [Email](mailto:sales@triport.io)
 
+**Network endpoint pages:** [Solana RPC](https://triport.io/solana-rpc) · [Ethereum RPC](https://triport.io/ethereum-rpc) · [Base RPC](https://triport.io/base-rpc) · [BNB Chain RPC](https://triport.io/bsc-rpc) · [Polygon RPC](https://triport.io/polygon-rpc) · [Tron RPC](https://triport.io/tron-rpc) · [Robinhood Chain RPC](https://triport.io/robinhood-rpc) · [TON RPC](https://triport.io/ton-rpc) · [Stellar RPC](https://triport.io/stellar-rpc)
+
+**More:** [Pricing](https://triport.io/pricing) · [Status](https://triport.io/status) · [Changelog](https://triport.io/changelog)
+
 ## Start in one minute
 
 Open [Getting started](docs/getting-started.md), create an API key, and choose a
